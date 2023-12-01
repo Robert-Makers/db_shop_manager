@@ -1,0 +1,1 @@
+# db_shop_manager
